@@ -1,98 +1,35 @@
-<!-- 💫 HEADER/ABOUT ME -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Farhan;Full-Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing animation" />
-</div>
-
 # 💫 About Me:
-🔭 Building **Next.js & Node.js** applications<br>
-🌱 Learning **Three.js & WebGL** for 3D web<br>
-💡 Passionate about **UI/UX & Web Performance**<br>
-⚡ Fun fact: **I love algorithmic challenges**<br>
-📫 Reach me: **your.email@example.com**
+🔭 Currently working on: Full-stack projects and solving logical challenges.<br>💡 Ask me about: Web development, JavaScript, and creative problem-solving.<br>🌱 Currently learning: MERN stack and advanced algorithms.<br>🤝 Open to collaboration on: Full-stack development and innovative web projects.<br>🤔 Fun fact: I enjoy tackling complex problems and finding elegant solutions!
 
----
 
-<!-- 🛠️ TECH STACK -->
-## 🚀 Tech Stack
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
+![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
+![GSAP](https://img.shields.io/badge/GSAP-%88CE02.svg?style=for-the-badge&logo=greensock&logoColor=white) 
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Farhan Yousafzai0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Farhan Yousafzai0&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan Yousafzai0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🖥️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗃️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🎨 Styling
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
----
-
-<!-- 📊 STATS -->
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FarhanYousafzai0&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=FarhanYousafzai0&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanYousafzai0&layout=compact&theme=radical&hide_border=true" />
-</div>
-
----
-
-<!-- 🏆 TROPHIES -->
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=FarhanYousafzai0&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4)
+![](https://github-profile-trophy.vercel.app/?username=Farhan Yousafzai0&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Farhan Yousafzai0&icon=8&color=0)](https://visitcount.itsvg.in)
 
-<!-- 🎯 FEATURED PROJECTS -->
-## 🔥 Featured Projects
-
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  
-  <!-- Project 1 -->
-  <a href="https://github.com/FarhanYousafzai0/project1">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=FarhanYousafzai0&repo=project1&theme=radical" />
-  </a>
-  
-  <!-- Project 2 -->
-  <a href="https://github.com/FarhanYousafzai0/project2">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=FarhanYousafzai0&repo=project2&theme=radical" />
-  </a>
-</div>
-
----
-
-<!-- 🌐 CONNECT -->
-## 🤝 Let's Connect
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<!-- 🎵 SPOTIFY -->
-## 🎧 Currently Coding To
-[![Spotify](https://spotify-readme-farhan.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
-
----
-
-<!-- FOOTER -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=FarhanYousafzai0&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
-  <p>Made with ❤️ using Markdown</p>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
