@@ -1,7 +1,11 @@
 # Muhammad Farhan Yousafzai
 
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Profile banner" width="100%" />
+  <img src="https://scontent.fpew4-1.fna.fbcdn.net/v/t39.30808-6/624299257_888760413888295_794339205756375624_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=2a1932&_nc_eui2=AeFYjO9yDURKSyoRJyOWtgTX1zHWK4yYKLLXMdYrjJgostu6YPdU7dOw32a9QNy3OiEHPg_jE35-18r6t-BBdCe1&_nc_ohc=ZNIBxZNgQbYQ7kNvwH1XTP3&_nc_oc=AdpZ8OzN4MQOcn-bauoooWpuAGD36IVn5W9ltw_2S46lVkXDZcVKwg3i4agTjjEGcqM&_nc_zt=23&_nc_ht=scontent.fpew4-1.fna&_nc_gid=X2WzuB6L1q7T2ajc8uf7mA&_nc_ss=7a3a8&oh=00_Af0AHFBtRI4sR5QjOIrPPtmXXZE37qC5eWoV1_6CXrZmZg&oe=69D87EB7" alt="Cover photo" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://metaklouds.com/logo-horizontal.svg" alt="MetaKlouds" height="44" />
 </p>
 
 <p align="center">
