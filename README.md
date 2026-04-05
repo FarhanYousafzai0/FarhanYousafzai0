@@ -18,12 +18,22 @@ I am a full-stack developer from Pakistan building AI products, modern web apps,
 - Interested in SaaS products, high-performance frontend work, and clean backend architecture
 - Open to collaboration on AI tools, automation workflows, and product-focused web apps
 
+## Visual Signature
+
+```text
+Creative frontend + product thinking + AI execution
+```
+
 ## Achievements
 
 <p>
   <img src="https://img.shields.io/badge/Pair%20Extraordinaire-Earned-2563eb?style=for-the-badge" alt="Pair Extraordinaire" />
   <img src="https://img.shields.io/badge/YOLO-Earned-f59e0b?style=for-the-badge" alt="YOLO" />
   <img src="https://img.shields.io/badge/Pull%20Shark-Earned-10b981?style=for-the-badge" alt="Pull Shark" />
+</p>
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=FarhanYousafzai0&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
 </p>
 
 ## Current Focus
@@ -50,6 +60,36 @@ Automation + AI > repetitive work
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhanYousafzai0&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
+
+## Featured Projects
+
+### PackageIQ
+
+A modern package intelligence app for analyzing npm packages with live signals from npm, GitHub, and Bundlephobia.
+
+- Real-time package analytics
+- bundle-size intelligence
+- comparison workflows
+- product-focused UI
+
+Repo: https://github.com/FarhanYousafzai0/PackageIQ
+
+### facebook
+
+A MERN-based social media application with chat, calls, notifications, and a responsive frontend experience.
+
+- posts, comments, and social interactions
+- private messaging
+- WebRTC calling
+- Socket.IO real-time updates
+
+Repo: https://github.com/FarhanYousafzai0/facebook
+
+### musaed
+
+Part of my AI and agent-oriented work focused on practical automation and developer tooling.
+
+Repo: https://github.com/Metaklouds-Solutions/musaed
 
 ## Featured Direction
 
