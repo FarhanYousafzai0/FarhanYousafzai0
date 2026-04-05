@@ -21,11 +21,7 @@
 </p>
 
 <p align="center">
-  Founder-style full-stack developer building AI products, automation systems, voice agents, and modern web apps.
-</p>
-
-<p align="center">
-  MERN + AI Dev | Mastering ML & Building Cool Tech | Worked with clients in US, UK, Saudi & Pakistan.
+  MERN and AI developer with experience building scalable products for clients across the US, UK, Saudi Arabia, and Pakistan.
 </p>
 
 ## About
