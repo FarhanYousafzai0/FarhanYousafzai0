@@ -1,111 +1,91 @@
-# Farhan Yousafzai
+# Muhammad Farhan Yousafzai
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=AI-powered+products.;Full-stack+apps+that+ship.;Automation+systems+with+real+use." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=1100&color=38BDF8&center=true&vCenter=true&width=960&lines=Full-stack+builder+with+an+AI+edge.;MERN+stack.+Automation.+Voice+agents.;Designing+apps+that+ship+and+scale." alt="Typing intro" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/FarhanYousafzai0"><img src="https://img.shields.io/github/followers/FarhanYousafzai0?style=for-the-badge&logo=github&label=Followers&color=111827" alt="GitHub followers" /></a>
-  <a href="https://github.com/FarhanYousafzai0?tab=repositories"><img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20AI%20%7C%20Automation-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Focus badge" /></a>
-  <a href="https://muhammad-farhan-pi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio badge" /></a>
+  <a href="https://komarev.com/ghpvc/?username=FarhanYousafzai0&style=for-the-badge&color=0ea5e9">
+    <img src="https://komarev.com/ghpvc/?username=FarhanYousafzai0&style=for-the-badge&color=0ea5e9" alt="Profile views" />
+  </a>
+  <a href="https://github.com/FarhanYousafzai0">
+    <img src="https://img.shields.io/github/followers/FarhanYousafzai0?style=for-the-badge&logo=github&label=FOLLOWERS&color=111827" alt="GitHub followers" />
+  </a>
+  <a href="https://muhammad-farhan-pi.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
-## About Me
+<p align="center">
+  Founder-style full-stack developer building AI products, automation systems, voice agents, and modern web apps.
+</p>
 
-I am a full-stack developer from Pakistan building AI products, modern web apps, and automation systems.
+## About
 
-- Building useful software with React, Next.js, Node.js, TypeScript, and AI APIs
-- Interested in SaaS products, high-performance frontend work, and clean backend architecture
-- Open to collaboration on AI tools, automation workflows, and product-focused web apps
+I build product-focused software with a strong MERN foundation and a growing AI systems layer.
 
-## Visual Signature
+- AI products
+- apps
+- frontend design
+- backend systems
+- automations
+- AI automations
+- full-stack projects
+- AI voice agents
 
-```text
-Creative frontend + product thinking + AI execution
-```
+## Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nextjs,nodejs,nestjs,js,ts,tailwind,postgres,mysql,git,github,vscode" alt="Tech stack icons" />
+</p>
+
+<p>
+  MERN, Next.js, NestJS, backend systems, AI integrations, retail agents, and full-stack product engineering.
+</p>
 
 ## Achievements
 
 <p>
-  <img src="https://img.shields.io/badge/Pair%20Extraordinaire-Earned-2563eb?style=for-the-badge" alt="Pair Extraordinaire" />
-  <img src="https://img.shields.io/badge/YOLO-Earned-f59e0b?style=for-the-badge" alt="YOLO" />
-  <img src="https://img.shields.io/badge/Pull%20Shark-Earned-10b981?style=for-the-badge" alt="Pull Shark" />
+  <a href="https://github.com/FarhanYousafzai0">
+    <img src="https://img.shields.io/badge/Pair%20Extraordinaire-Earned-2563eb?style=for-the-badge&labelColor=0f172a" alt="Pair Extraordinaire" />
+  </a>
+  <a href="https://github.com/FarhanYousafzai0">
+    <img src="https://img.shields.io/badge/Pull%20Shark-Earned-10b981?style=for-the-badge&labelColor=0f172a" alt="Pull Shark" />
+  </a>
+  <a href="https://github.com/FarhanYousafzai0">
+    <img src="https://img.shields.io/badge/YOLO-Earned-f59e0b?style=for-the-badge&labelColor=0f172a" alt="YOLO" />
+  </a>
 </p>
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=FarhanYousafzai0&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
+  <sub>Achievements shown in a custom style. The live GitHub achievement icons remain on the profile page itself.</sub>
 </p>
 
 ## Current Focus
 
 ```text
-Shipping products > chasing hype
-Design + engineering > average UI
-Automation + AI > repetitive work
+AI-powered products
+automation for real workflows
+voice and retail agents
+clean frontend + reliable backend systems
 ```
 
-## Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,nestjs,mongodb,postgres,mysql,tailwind,figma,git,github,vscode" alt="Tech stack icons" />
-</p>
-
-## GitHub Snapshot
+## Stats
 
 <p>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=FarhanYousafzai0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanYousafzai0&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
+## Streak
+
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhanYousafzai0&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=FarhanYousafzai0&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-## Featured Projects
-
-### PackageIQ
-
-A modern package intelligence app for analyzing npm packages with live signals from npm, GitHub, and Bundlephobia.
-
-- Real-time package analytics
-- bundle-size intelligence
-- comparison workflows
-- product-focused UI
-
-Repo: https://github.com/FarhanYousafzai0/PackageIQ
-
-### facebook
-
-A MERN-based social media application with chat, calls, notifications, and a responsive frontend experience.
-
-- posts, comments, and social interactions
-- private messaging
-- WebRTC calling
-- Socket.IO real-time updates
-
-Repo: https://github.com/FarhanYousafzai0/facebook
-
-### musaed
-
-Part of my AI and agent-oriented work focused on practical automation and developer tooling.
-
-Repo: https://github.com/Metaklouds-Solutions/musaed
-
-## Featured Direction
-
-- AI-powered SaaS products
-- Automation systems for real workflows
-- Creative frontend experiences with strong visual identity
-- Production-ready full-stack applications
-
-## Connect
+## Contact
 
 - Portfolio: https://muhammad-farhan-pi.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/farhan-yousafzai-8a1363352
 - Facebook: https://www.facebook.com/farhan.yousafzai.865663
-
----
-
-<p align="center">
-  <i>Building things that look sharp, move fast, and solve real problems.</i>
-</p>
+- Email: mailto:coderwithferry@gmail.com
