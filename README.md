@@ -20,6 +20,14 @@
   Founder-style full-stack developer building AI products, automation systems, voice agents, and modern web apps.
 </p>
 
+<p align="center">
+  MERN + AI Dev | Mastering ML & Building Cool Tech | Worked with clients in US, UK, Saudi & Pakistan.
+</p>
+
+<p align="center">
+  Currently working at <strong>MetaKlouds</strong>
+</p>
+
 ## About
 
 I build product-focused software with a strong MERN foundation and a growing AI systems layer.
@@ -55,10 +63,13 @@ I build product-focused software with a strong MERN foundation and a growing AI 
   <a href="https://github.com/FarhanYousafzai0">
     <img src="https://img.shields.io/badge/YOLO-Earned-f59e0b?style=for-the-badge&labelColor=0f172a" alt="YOLO" />
   </a>
+  <a href="https://github.com/FarhanYousafzai0">
+    <img src="https://img.shields.io/badge/Quickdraw-Earned-7c3aed?style=for-the-badge&labelColor=0f172a" alt="Quickdraw" />
+  </a>
 </p>
 
 <p>
-  <sub>Achievements shown in a custom style. The live GitHub achievement icons remain on the profile page itself.</sub>
+  <sub>Achievements shown in a custom style. GitHub's exact round achievement icons are only shown natively on the profile page unless used as an image asset.</sub>
 </p>
 
 ## Current Focus
@@ -68,6 +79,7 @@ AI-powered products
 automation for real workflows
 voice and retail agents
 clean frontend + reliable backend systems
+shipping SaaS platforms that scale
 ```
 
 ## Stats
