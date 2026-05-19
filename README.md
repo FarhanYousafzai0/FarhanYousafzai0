@@ -1,4 +1,4 @@
-# Muhammad Farhan Yousafzai
+# Muhammad Farhan 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=1100&color=38BDF8&center=true&vCenter=true&width=960&lines=Full-stack+builder+with+an+AI+edge.;MERN+stack.+Automation.+Voice+agents.;Designing+apps+that+ship+and+scale." alt="Typing intro" />
