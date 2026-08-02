@@ -35,7 +35,7 @@ Building AI-powered products, automations, voice agents, and responsive full-sta
 </p>
 
 <p>
-<a href="https://muhammad-farhan-pi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://muhammad-farhan-codes.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/farhan-yousafzai-8a1363352"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:coderwithferry@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Farhan" /></a>
 <a href="https://www.facebook.com/farhan.yousafzai.865663"><img src="https://img.shields.io/badge/Facebook-Follow-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
